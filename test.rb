@@ -13,7 +13,7 @@ def legal_drinking_age(age)
 end
 
 
-def combined_age_of_spouses(age, age 2)
+def combined_age_of_spouses(age 1, age 2)
   x = 20
   y = 30
   if (x + y) > 50
@@ -30,6 +30,7 @@ age (44)
 end
 
 combined_age_of_spouses(44)
+
 
 
 
