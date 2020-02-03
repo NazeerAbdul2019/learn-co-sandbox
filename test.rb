@@ -29,6 +29,7 @@ age (44)
   puts "Hi, welcome to my very repetitive program!"
 end
 
+age = 45
 
 
 
